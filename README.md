@@ -19,7 +19,7 @@ This is a Microsoft SpeechT5 model fine-tuned for Hindi.
     - https://www.kaggle.com/datasets/shigrafs/english-technical-interview
     - https://www.kaggle.com/datasets/shigrafs/english-wav
 - Content:
-  - No of Audio files: 16512
+  - No of Audio files: 49756
   - Number of speakers: 1
   - Types of speech: Scripted
 - Preprocessing Steps:
